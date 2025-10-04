@@ -1,0 +1,1 @@
+A machine learning project that predicts the resale price of used cars based on features like brand, model, year, mileage, fuel type, and transmission. Includes data cleaning, feature engineering, EDA, and multiple regression/ensemble models with performance comparison
